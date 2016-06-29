@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.06.2016 18:16:07
+
+newmtl Default_Material
+	Ns 27.2504
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7600 0.6200 0.5200
+	Ks 0.1176 0.1176 0.1176
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Sean David\Documents\Mudbox\2016-x64\data\Channel_Default Material_Diffuse_u1_v1.tif
+	map_Kd C:\Users\Sean David\Documents\Mudbox\2016-x64\data\Channel_Default Material_Diffuse_u1_v1.tif
+	map_refl C:\Program Files\Autodesk\Mudbox 2016\Textures\Lightprobes\horizon.exr

@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.06.2016 23:33:50
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Sean David\Desktop\Alt\Assets\Maps\Diffuse Maps\masked-strawberry-single-plant-texture-image-3-1087_002.jpg
+	map_Kd C:\Users\Sean David\Desktop\Alt\Assets\Maps\Diffuse Maps\masked-strawberry-single-plant-texture-image-3-1087_002.jpg
+	map_d C:\Users\Sean David\Desktop\Alt\Assets\Maps\Masks\masked-strawberry-single-plant-texture-image-3-1087.jpg
+
+newmtl Material__26
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Sean David\Desktop\Alt\Assets\Textures\stone_texture___seamless_by_agf81-d39vfot.jpg
+	map_Kd C:\Users\Sean David\Desktop\Alt\Assets\Textures\stone_texture___seamless_by_agf81-d39vfot.jpg
